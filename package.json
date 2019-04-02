@@ -1,4 +1,5 @@
 {
   "name": "sample-server",
+  "version": "1.0.0",
   "bin": "./index.js"
 }
