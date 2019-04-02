@@ -1,0 +1,4 @@
+{
+  "name": "sample-server",
+  "bin": "./index.js"
+}
